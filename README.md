@@ -40,7 +40,7 @@ Maintenat que la grille à été créer, il faut placer les bateaux.
 
 ![Capture d'écran 2025-01-15 233906](https://github.com/user-attachments/assets/74cb1768-dade-4857-a0cb-7275e08bb968)
 
-5. Gestionss des tirs
+5. Gestions des tirs
 
 Pour les tirs, il faut signifié si un bateau est touché ou si le tir est raté.
 
