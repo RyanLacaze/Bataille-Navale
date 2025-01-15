@@ -15,7 +15,7 @@ Sommaire :
 
 Pour commencer, j'importe la bibliothèque de l'interface graphique tkinter ainsi que la bibliothèque random car il y aura besoin d'aléatoire pour le jeu.
 
-![Alt text]("file:///C:/Users/ryanl/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d'%C3%A9cran%202025-01-15%20124905.png")
+![Alt text](file:///C:/Users/ryanl/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d'%C3%A9cran%202025-01-15%20124905.png)
 
 2. Bateaux
 
